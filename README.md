@@ -22,11 +22,6 @@ Praktikum Pemrograman Web: modularisasi program PHP (template, function, struktu
 4. Buka di browser:
    - Latihan template/function: `http://localhost/Lab9Web/lab9_php_modular/home.php`
    - Aplikasi CRUD modular: `http://localhost/Lab9Web/project/index.php`
-5. Alternatif tanpa Apache:
-   ```
-   php -S localhost:8000 -t project
-   ```
-   lalu buka `http://localhost:8000/index.php`.
 
 ## Struktur Direktori
 ```
